@@ -27,5 +27,10 @@ python3 main.py
 ## Replit
 This program works on replit too.
 
+## Coming...
+- Thread support
+- plain output function
+- unlimited tokens function
+
 ## Conclusion
 If you like this program feel free to star it.
