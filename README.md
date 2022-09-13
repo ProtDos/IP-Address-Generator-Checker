@@ -19,6 +19,8 @@ python3 main.py
 
 ## Features
 - generates unlimited IP addresses
+- threads
+- plain function mode
 - output file
 - no API
 - only one module needed
@@ -28,9 +30,8 @@ python3 main.py
 This program works on replit too.
 
 ## Coming...
-- Thread support
-- plain output function
-- unlimited tokens function
+- Thread support ✅
+- plain output function ✅
 
 ## Conclusion
 If you like this program feel free to star it.
